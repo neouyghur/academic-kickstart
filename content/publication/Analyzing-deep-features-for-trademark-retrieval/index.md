@@ -3,17 +3,16 @@
 
 title: "Analyzing Deep Features for Trademark Retrieval"
 authors: [Cemal Aker, Osman Tursun, Sinan Kalkan]
-date: 2019-07-04T17:31:18+10:00
+date: 2017-05-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-07-04T17:31:18+10:00
-
+publishDate: 2017-05-01
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

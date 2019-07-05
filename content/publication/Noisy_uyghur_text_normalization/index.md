@@ -3,11 +3,11 @@
 
 title: "Noisy uyghur text normalization"
 authors: [Osman Tursun, Ruket Cakici]
-date: 2017-07
+date: 2017-11-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-07
+publishDate: 2017-11-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -3,11 +3,11 @@
 
 title: "A_large Scale_dataset_and_benchmark_for_similar_trademark_retrieval"
 authors: [Osman Tursun, Sinan Kalkan]
-date: 2016
+date: 2016-09-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2016
+publishDate: 2016-09-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

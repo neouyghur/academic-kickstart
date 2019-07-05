@@ -3,11 +3,11 @@
 
 title: "METU dataset: A big dataset for benchmarking trademark retrieval"
 authors: [Osman Tursun, Sinan Kalkan]
-date: 2015
+date: 2015-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-07-04T16:35:10+10:00
+publishDate: 2015-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -3,11 +3,11 @@
 
 title: "MTRNet: A Generic Scene Text Eraser"
 authors: [Osman Tursun, Rui Zeng, Simon Denman, Sabesan Sivipalan, Sridha Sridharan, Clinton Fookes]
-date: 2019-03
+date: 2019-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-03
+publishDate: 2019-03-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

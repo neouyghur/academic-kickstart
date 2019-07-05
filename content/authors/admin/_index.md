@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I’m a Ph.D. student at Computer Engineering department of Middle East Technical University. Currently, I am researching about “Large Scale Trademark Retrieval System” under the supervision of Asst. Pro. Sinan Kalkan at Kovan Research Lab. My main research interests are computer vision, image processing and artificial intelligence. I am also interested in speech recognition,  natural language processing and robotics.
-
-I got my bachelor degrees in Computer Science and Administration Science at University of Science and Technology of China. And, I got my M.SC. degree in Computer Engineering at Middle East Technical University.
+I’m a Ph.D. student at School of Electrical Engineering and Computer Science, Queensland University of Technology. Currently, I am researching about “Large Scale Trademark Retrieval System With Attention Mechanism” under the supervision of Sridha Sridharan at SAIVT Lab. My main research interests are computer vision, image processing and artificial intelligence. I am also interested in speech recognition,  natural language processing and robotics.

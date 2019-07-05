@@ -3,11 +3,11 @@
 
 title: "A COMPARISON OF METHODS FOR TRADEMARK RETRIEVAL IN A LARGE TRADEMARK DATASET"
 authors: [Osman Tursun]
-date: 2015
+date: 2015-02-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015
+publishDate: 2015-02-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
