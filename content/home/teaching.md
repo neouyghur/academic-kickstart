@@ -22,4 +22,6 @@ weight = 30
 _[School of Electrical Engineering and Computer Science](https://www.qut.edu.au/science-engineering/schools/school-of-electrical-engineering-and-computer-science)_
 
 + **Machine Learning**, CAB420_19se1 – Teaching Assistant
-+ **Introduction to Computer Systems**, IFB102_19se1 – Teaching Assistant
++ **Introduction to Computer Systems**, IFB102_19se1/19se2 – Teaching Assistant
++ **Systems Programming**, CAB403_19se2 – Teaching Assistant
++ **Digital Signals and Image Processing**, EGH444_19se2 – Teaching Assistant
