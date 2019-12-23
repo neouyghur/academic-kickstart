@@ -33,10 +33,8 @@ education:
     year: 2017
   - course: MEng in Computer Engineering
     institution: Middle East Technical University
-    year: 2012
   - course: BSc in Computer Science
     institution: Univeristy of Science and Technology of China
-    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
